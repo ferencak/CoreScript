@@ -1,0 +1,4 @@
+Starting compilation for 'test'.
+Checking if exist 00-DEFAULT.cscript:
+- Default script 00-DEFAULT.cscript exist.
+Cannot compile project! Breaked in 21:05:06
